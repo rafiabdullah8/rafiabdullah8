@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working as a content writer & coordinator. <br>
+I turn ideas into stories — and problems into code.
+
+CSE Undergraduate • Creative Writer • Visual Storyteller <br>
 
 
 ## 🌐 Socials:
