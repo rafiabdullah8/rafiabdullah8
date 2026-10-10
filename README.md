@@ -1,7 +1,7 @@
 # 👾 Hey, I'm Abdullah Rafi
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10102B,100:25255A&height=190&section=header&text=8BitRafi&fontSize=62&fontColor=7DF9FF&animation=fadeIn&fontAlignY=42&desc=CREATIVE%20MIND%20%2F%2F%20CURIOUS%20CODER&descSize=14&descAlignY=72&descColor=F7D774" width="100%" alt="8BitRafi retro gaming banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10102B,100:25255A&height=190&section=header&text=8BitRafi&fontSize=62&fontColor=7DF9FF&animation=fadeIn&fontAlignY=42&desc=CREATIVE%20MIND%20%2F%2F%20CURIOUS%20CODER&descSize=14&descAlignY=72&descColor=F7D774" width="100%" alt="Rafi retro gaming banner"/>
 </p>
 
 <p align="center">
