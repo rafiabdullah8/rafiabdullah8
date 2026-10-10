@@ -1,7 +1,7 @@
 
 --
-  CREATIVE STUDIO × CODE
-  GitHub Profile README — Abdullah R Rafi
+ 
+— Abdullah R Rafi
 --
 
 <div align="center">
