@@ -1,9 +1,3 @@
-
---
- 
-— Abdullah R Rafi
---
-
 <div align="center">
 
   <img
@@ -31,7 +25,7 @@
 
 ---
 
-## `01` — About the creator
+##  — About the creator
 
 Hi, I'm **Abdullah R. Rafi**, a CSE undergraduate exploring the space where **technology, storytelling, and visual creativity** meet.
 
@@ -46,7 +40,7 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
 ---
 
-## `02` — The creative workspace
+## — The creative workspace
 
 <div align="center">
   <table>
@@ -79,60 +73,7 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
 ---
 
-## `03` — The build log
-
-I believe progress comes from consistent practice, curiosity, and making things one step at a time.
-
-```text
-[01] C fundamentals
-     └── Learning the building blocks
-
-[02] C++ programming
-     └── Practicing concepts through code
-
-[03] Data structures
-     └── Understanding how data is organized
-
-[04] Algorithms & problem solving
-     └── Learning to approach problems logically
-
-[05] Creative experiments
-     └── Writing, photography, and visual storytelling
-
-[06] Next build
-     └── Learn something → apply it → improve it
-```
-
-*This is my learning path, not a claim of completed milestones.*
-
----
-
-## `04` — Selected repository
-
-<div align="center">
-
-  <a href="https://github.com/rafiabdullah8/My_C_Codes">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=rafiabdullah8&repo=My_C_Codes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA"
-      alt="My C Codes repository card"
-    />
-  </a>
-
-  <p>
-    <a href="https://github.com/rafiabdullah8/My_C_Codes">
-      <img src="https://img.shields.io/badge/Explore-My_C_Codes-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore My C Codes" />
-    </a>
-  </p>
-
-</div>
-
-A collection of C programming practice organized around topics such as:
-
-`Basic C` · `Conditions` · `Loops` · `Functions` · `Arrays` · `Strings` · `Pointers` · `Recursion` · `Patterns`
-
----
-
-## `05` — GitHub activity
+## — GitHub activity
 
 <div align="center">
 
@@ -160,7 +101,7 @@ A collection of C programming practice organized around topics such as:
 
 ---
 
-## `06` — Beyond the terminal
+## — Beyond the terminal
 
 <div align="center">
 
@@ -178,7 +119,7 @@ For me, code and creativity aren't opposites. One helps me structure ideas; the 
 
 ---
 
-## `07` — Find me around the web
+## — Find me around the web
 
 <div align="center">
 
@@ -202,7 +143,7 @@ For me, code and creativity aren't opposites. One helps me structure ideas; the 
 
 ---
 
-## `08` — A thought to keep
+## — A thought to keep
 
 <div align="center">
 
