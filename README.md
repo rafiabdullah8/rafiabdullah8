@@ -28,9 +28,6 @@
 
 ---
 
-
----
-
 ##  — About the creator
 
 Hi, I'm **Abdullah R. Rafi**, a CSE undergraduate exploring the space where **technology, storytelling, and visual creativity** meet.
@@ -46,7 +43,7 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
 ---
 
-## — The creative workspace
+## — My Creative Workspace
 
 <div align="center">
   <table>
@@ -88,21 +85,17 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
     src="https://github-readme-stats.vercel.app/api?username=rafiabdullah8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&rank_icon=github"
     alt="GitHub statistics"
   />
-
   <img
     height="165"
     src="https://streak-stats.demolab.com?user=rafiabdullah8&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9"
     alt="GitHub contribution streak"
   />
-
   <br />
-
   <img
     width="55%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9"
     alt="Most-used programming languages on GitHub"
   />
-
 </div>
 
 ---
@@ -157,12 +150,9 @@ For me, code and creativity aren't opposites. One helps me structure ideas; the 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random developer quote"
   />
-
   <br /><br />
-
   <i>Learn → Practice → Build → Repeat.</i>
-
-  <br /><br />
+ <br /><br />
 
   <img
     src="https://komarev.com/ghpvc/?username=rafiabdullah8&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"
@@ -170,8 +160,6 @@ For me, code and creativity aren't opposites. One helps me structure ideas; the 
   />
 
   <br /><br />
-
-  <sub>Made with curiosity, creativity, and a little bit of code.</sub>
 
 </div>
 
