@@ -1,8 +1,7 @@
-
 <div align="center">
 
   <img
-    src="assets/banner.gif"
+    src="banner.gif"
     width="100%"
     alt="Abdullah R Rafi — Animated Coding Banner"
   />
