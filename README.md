@@ -1,10 +1,20 @@
+
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,50:312E81,100:0891B2&text=8BitRafi&fontColor=F8FAFC&fontSize=64&fontAlignY=38&desc=CREATIVE%20STUDIO%20%C3%97%20CODE&descAlignY=60&descSize=16&animation=fadeIn"
+    src="assets/banner.gif"
     width="100%"
-    alt="Rafi — Creative Studio × Code"
+    alt="Abdullah R Rafi — Animated Coding Banner"
   />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/CSE-UNDERGRADUATE-00DDB3?style=for-the-badge&labelColor=101820" />
+  <img src="https://img.shields.io/badge/CREATIVE-WRITER-FFD166?style=for-the-badge&labelColor=101820" />
+  <img src="https://img.shields.io/badge/VISUAL-STORYTELLER-BB86FC?style=for-the-badge&labelColor=101820" />
+
+</div>
+
 
   <h3>Ideas into stories. Problems into code.</h3>
 
