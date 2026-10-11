@@ -2,7 +2,7 @@
 <div align="center">
 
   <img
-    src="banner.gif"
+    src="8bitrafi_animated_terminal_banner_small.gif"
     width="100%"
     alt="Abdullah R. Rafi — Animated Coding Banner"
   />
