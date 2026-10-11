@@ -1,36 +1,35 @@
+
 <div align="center">
 
   <img
-    src="banner.gif"
+    src="./banner.gif"
     width="100%"
-    alt="Abdullah R Rafi — Animated Coding Banner"
+    alt="Abdullah R. Rafi — Animated Coding Banner"
   />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/CSE-UNDERGRADUATE-00DDB3?style=for-the-badge&labelColor=101820" />
-  <img src="https://img.shields.io/badge/CREATIVE-WRITER-FFD166?style=for-the-badge&labelColor=101820" />
-  <img src="https://img.shields.io/badge/VISUAL-STORYTELLER-BB86FC?style=for-the-badge&labelColor=101820" />
-
-</div>
-
+  <img src="https://img.shields.io/badge/CSE-UNDERGRADUATE-00DDB3?style=for-the-badge&labelColor=101820" alt="CSE Undergraduate" />
+  <img src="https://img.shields.io/badge/CREATIVE-WRITER-FFD166?style=for-the-badge&labelColor=101820" alt="Creative Writer" />
+  <img src="https://img.shields.io/badge/VISUAL-STORYTELLER-BB86FC?style=for-the-badge&labelColor=101820" alt="Visual Storyteller" />
 
   <h3>Ideas into stories. Problems into code.</h3>
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=CSE+Undergraduate;Learning+DSA+%26+Problem+Solving;Creative+Writer+%7C+Visual+Storyteller;Building+at+the+intersection+of+logic+%26+creativity"
-      alt="Typing animation introducing Rafi"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=CSE+Undergraduate;Learning+DSA+%26+Problem+Solving;Creative+Writer+%7C+Visual+Storyteller;Building+at+the+intersection+of+logic+%26+creativity"
+    alt="Typing animation introducing Rafi"
+  />
 
-  <br />
+  <br/><br/>
 
   <img src="https://img.shields.io/badge/SPACE-CREATIVE%20THINKING-0891B2?style=flat-square" alt="Creative thinking" />
   <img src="https://img.shields.io/badge/MODE-BUILD%20%26%20LEARN-7C3AED?style=flat-square" alt="Build and learn" />
   <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-16A34A?style=flat-square" alt="Learning in progress" />
 
 </div>
+
+---
+
 
 ---
 
