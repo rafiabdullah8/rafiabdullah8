@@ -6,7 +6,6 @@
     width="100%"
     alt="Abdullah R. Rafi — Animated Coding Banner"
   />
-
   <br/><br/>
 
   <img src="https://img.shields.io/badge/CSE-UNDERGRADUATE-00DDB3?style=for-the-badge&labelColor=101820" alt="CSE Undergraduate" />
@@ -19,7 +18,6 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=CSE+Undergraduate;Learning+DSA+%26+Problem+Solving;Creative+Writer+%7C+Visual+Storyteller;Building+at+the+intersection+of+logic+%26+creativity"
     alt="Typing animation introducing Rafi"
   />
-
   <br/><br/>
 
   <img src="https://img.shields.io/badge/SPACE-CREATIVE%20THINKING-0891B2?style=flat-square" alt="Creative thinking" />
