@@ -114,8 +114,6 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
 </div>
 
-For me, code and creativity aren't opposites. One helps me structure ideas; the other helps me give those ideas meaning.
-
 ---
 
 ## — Find me around the web
@@ -151,7 +149,6 @@ For me, code and creativity aren't opposites. One helps me structure ideas; the 
     alt="Random developer quote"
   />
   <br /><br />
-  <i>Learn → Practice → Build → Repeat.</i>
  <br /><br />
 
   <img
