@@ -34,10 +34,10 @@ Hi, I'm **Abdullah R. Rafi**, a CSE undergraduate exploring the space where **te
 
 I enjoy understanding how things work, turning ideas into clear stories, and learning by building. My interests span programming and problem-solving, alongside creative writing, visual storytelling, photography, and video.
 
-- 💻 **Code:** C, C++, Java, and the fundamentals of problem-solving.
+- 💻 **Code:** C, C++, Java, HTML and the fundamentals of problem-solving.
 - ✍️ **Create:** Creative writing, content, and visual storytelling.
 - 🎬 **Visualize:** Photography, videography, and creative content.
-- 🌱 **Currently growing:** Data structures, algorithms, and practical programming skills.
+- 🌱 **Currently growing:** Database management and practical programming skills.
 
 > Different tools. One mindset: imagine, experiment, build, improve.
 
