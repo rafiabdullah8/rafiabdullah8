@@ -28,7 +28,7 @@
 
 ---
 
-##  — About the creator
+##  — About Me
 
 Hi, I'm **Abdullah R. Rafi**, a CSE undergraduate exploring the space where **technology, storytelling, and visual creativity** meet.
 
@@ -39,11 +39,10 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 - 🎬 **Visualize:** Photography, videography, and creative content.
 - 🌱 **Currently growing:** Database management and practical programming skills.
 
-> Different tools. One mindset: imagine, experiment, build, improve.
-
 ---
 
 ## — My Creative Workspace
+
 
 <div align="center">
   <table>
@@ -54,6 +53,9 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       </td>
       <td align="center" width="50%">
         <h3>✳ CREATIVE</h3>
@@ -64,6 +66,7 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
     </tr>
   </table>
 </div>
+
 
 ### Tools in my workflow
 
