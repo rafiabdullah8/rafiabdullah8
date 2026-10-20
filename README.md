@@ -142,25 +142,18 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 </div>
 
 ---
-
 ## — A thought to keep
-
 <div align="center">
-
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random developer quote"
   />
-
   <img
     src="https://komarev.com/ghpvc/?username=rafiabdullah8&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"
     alt="Profile visitor count"
   />
 
-  <br /><br />
-
 </div>
-
 <!-- Contribution snake appears after the GitHub Actions workflow is configured. -->
 <div align="center">
   <picture>
