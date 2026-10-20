@@ -148,8 +148,6 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
     alt="Random developer quote"
   />
-  <br /><br />
- <br /><br />
 
   <img
     src="https://komarev.com/ghpvc/?username=rafiabdullah8&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"
