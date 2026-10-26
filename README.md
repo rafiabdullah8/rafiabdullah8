@@ -35,11 +35,12 @@ Hi, I'm **Abdullah R. Rafi**, a CSE undergraduate exploring the space where **te
 I enjoy understanding how things work, turning ideas into clear stories, and learning by building. My interests span programming and problem-solving, alongside creative writing, visual storytelling, photography, and video.
 
 - 💻 **Code:** C, C++, Java, HTML and the fundamentals of problem-solving.
-- ✍️ **Create:** Creative writing, content, and visual storytelling.
+- ✍️ **Create:** Creative writing and visual storytelling.
 - 🎬 **Visualize:** Photography, videography, and creative content.
 - 🌱 **Currently growing:** Database management and practical programming skills.
 
 ---
+
 
 ## — Find me around the web
 
@@ -47,6 +48,9 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
   <a href="https://linkedin.com/in/abdullahrafi98">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rafiabd98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://behance.net/abdullahrrafi8">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
@@ -57,9 +61,7 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
   <a href="https://facebook.com/ra.fi.258437">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:rafiabd98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  
 
 </div>
 
