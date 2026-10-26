@@ -41,6 +41,29 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
 ---
 
+## — Find me around the web
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/abdullahrafi98">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://behance.net/abdullahrrafi8">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://instagram.com/rafiabdullah08">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/ra.fi.258437">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:rafiabd98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+---
+
 ## — My Creative Workspace
 
 
@@ -114,30 +137,6 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 | Logical thinking | Visual storytelling |
 | Learning by building | Photography & videography |
 | Exploring new tools | Creative direction |
-
-</div>
-
----
-
-## — Find me around the web
-
-<div align="center">
-
-  <a href="https://linkedin.com/in/abdullahrafi98">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://behance.net/abdullahrrafi8">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://instagram.com/rafiabdullah08">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/ra.fi.258437">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:rafiabd98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
 </div>
 
