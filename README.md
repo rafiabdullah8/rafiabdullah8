@@ -70,7 +70,7 @@ Currently focused on learning, experimenting, and turning ideas into practical w
 
 <div align="center">
   <img
-    height="180"
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=rafiabdullah8&show_icons=true&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&icon_color=E879F9&text_color=E5DDE8&ring_color=FB7185&rank_icon=github"
     alt="GitHub statistics — Rose Noir"
   />
