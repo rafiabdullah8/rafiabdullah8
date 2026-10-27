@@ -3,7 +3,14 @@
   <img src="8bitrafi_animated_terminal_banner_small.gif" width="100%" alt="8BitRafi — Living Code Banner" />
 
   <h1>Abdullah R Rafi</h1>
-  <p><b>Ideas into stories. Problems into code.</b></p>
+  
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FB7185&center=true&vCenter=true&width=500&lines=Ideas+into+Stories;Problems+into+Code"
+    alt="Ideas into Stories · Problems into Code"
+  />
+</div>
+
    <p>
     <img src="https://img.shields.io/badge/CSE-Undergraduate-64748B?style=flat-square" alt="CSE Undergraduate" />
     &nbsp;
