@@ -4,7 +4,9 @@
 
   <h2>Abdullah R Rafi</h2>
   <p><b>Ideas into stories. Problems into code.</b></p>
-
+<hr>
+<h2>Find me around the Web</h2>
+<hr>
   <p>
     <a href="https://linkedin.com/in/abdullahrafi98">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-FB7185?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
