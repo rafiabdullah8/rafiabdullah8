@@ -2,11 +2,11 @@
 <div align="center">
   <img src="8bitrafi_animated_terminal_banner_small.gif" width="100%" alt="8BitRafi — Living Code Banner" />
 
-  <h2>Abdullah R Rafi</h2>
+  <h1>Abdullah R Rafi</h1>
   <p><b>Ideas into stories. Problems into code.</b></p>
 <hr>
-<h2>Find me around the Web</h2>
-<hr>
+<h3>Find me around the Web</h3>
+
   <p>
     <a href="https://linkedin.com/in/abdullahrafi98">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-FB7185?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
