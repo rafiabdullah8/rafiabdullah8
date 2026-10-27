@@ -106,24 +106,26 @@ I enjoy understanding how things work, turning ideas into clear stories, and lea
 
 ## — GitHub activity
 
-<div align="center">
 
+<div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=rafiabdullah8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&rank_icon=github"
-    alt="GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=rafiabdullah8&show_icons=true&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&icon_color=E879F9&text_color=E5DDE8&ring_color=FB7185&rank_icon=github"
+    alt="GitHub statistics — Rose Noir"
   />
   <img
     height="165"
-    src="https://streak-stats.demolab.com?user=rafiabdullah8&theme=tokyonight&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=rafiabdullah8&theme=transparent&hide_border=true&background=100C14&ring=FB7185&fire=E879F9&currStreakLabel=FB7185&sideLabels=FDA4AF&currStreakNum=FCE7F3&sideNums=E879F9&dates=9D8FA3"
+    alt="GitHub contribution streak — Rose Noir"
   />
-  <br />
+
+  <br /><br />
   <img
     width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9"
-    alt="Most-used programming languages on GitHub"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&text_color=E5DDE8"
+    alt="Most-used programming languages — Rose Noir"
   />
+
 </div>
 
 ---
