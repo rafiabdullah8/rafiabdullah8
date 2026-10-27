@@ -53,19 +53,19 @@ Currently focused on learning, experimenting, and turning ideas into practical w
 
 <div align="center">
   <img
-    height="165"
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=rafiabdullah8&show_icons=true&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&icon_color=E879F9&text_color=E5DDE8&ring_color=FB7185&rank_icon=github"
     alt="GitHub statistics — Rose Noir"
   />
   <img
-    height="165"
+    height="180"
     src="https://streak-stats.demolab.com?user=rafiabdullah8&theme=transparent&hide_border=true&background=100C14&ring=FB7185&fire=E879F9&currStreakLabel=FB7185&sideLabels=FDA4AF&currStreakNum=FCE7F3&sideNums=E879F9&dates=9D8FA3"
     alt="GitHub contribution streak — Rose Noir"
   />
 
   <br /><br />
   <img
-    width="55%"
+    width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&text_color=E5DDE8"
     alt="Most-used programming languages — Rose Noir"
   />
