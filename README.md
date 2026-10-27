@@ -7,30 +7,45 @@
 <hr>
 <h3>Find me around the Web</h3>
 
+  
+<div align="center">
+
+  <!-- SOCIAL LINKS -->
   <p>
     <a href="https://linkedin.com/in/abdullahrafi98">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-FB7185?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://behance.net/abdullahrrafi8">
-      <img src="https://img.shields.io/badge/Behance-Portfolio-E879F9?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
     </a>
+    &nbsp;
     <a href="https://instagram.com/rafiabdullah08">
-      <img src="https://img.shields.io/badge/Instagram-Follow-FDA4AF?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+    &nbsp;
     <a href="https://facebook.com/ra.fi.258437">
-      <img src="https://img.shields.io/badge/Facebook-Connect-9D8FA3?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
+    &nbsp;
     <a href="mailto:rafiabd98@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-FCE7F3?style=flat-square&logo=gmail&logoColor=100C14" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
+  <br/>
+
+  <!-- PROFILE TAGS -->
   <p>
-    <img src="https://img.shields.io/badge/CSE-UNDERGRADUATE-FB7185?style=flat-square" alt="CSE Undergraduate" />
-    <img src="https://img.shields.io/badge/CREATIVE-WRITER-E879F9?style=flat-square" alt="Creative Writer" />
-    <img src="https://img.shields.io/badge/VISUAL-STORYTELLER-FDA4AF?style=flat-square" alt="Visual Storyteller" />
+    <img src="https://img.shields.io/badge/CSE-Undergraduate-64748B?style=flat-square" alt="CSE Undergraduate" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Creative-Writer-E879F9?style=flat-square" alt="Creative Writer" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Visual-Storyteller-FB7185?style=flat-square" alt="Visual Storyteller" />
   </p>
+
 </div>
+
 
 ---
 
