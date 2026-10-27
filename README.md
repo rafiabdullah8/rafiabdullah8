@@ -4,7 +4,15 @@
 
   <h1>Abdullah R Rafi</h1>
   <p><b>Ideas into stories. Problems into code.</b></p>
+   <p>
+    <img src="https://img.shields.io/badge/CSE-Undergraduate-64748B?style=flat-square" alt="CSE Undergraduate" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Creative-Writer-E879F9?style=flat-square" alt="Creative Writer" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Visual-Storyteller-FB7185?style=flat-square" alt="Visual Storyteller" />
+  </p>
 <hr>
+
 <h3>Find me around the Web</h3>
 
   
@@ -35,15 +43,7 @@
 
   <br/>
 
-  <!-- PROFILE TAGS -->
-  <p>
-    <img src="https://img.shields.io/badge/CSE-Undergraduate-64748B?style=flat-square" alt="CSE Undergraduate" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Creative-Writer-E879F9?style=flat-square" alt="Creative Writer" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Visual-Storyteller-FB7185?style=flat-square" alt="Visual Storyteller" />
-  </p>
-
+ 
 </div>
 
 
