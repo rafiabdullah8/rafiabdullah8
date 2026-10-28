@@ -87,7 +87,7 @@ Currently focused on learning, experimenting, and turning ideas into practical w
     alt="GitHub contribution streak — Rose Noir"
   />
 
-  <br /><br />
+  <br>
   <img
     width="50%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&text_color=E5DDE8"
