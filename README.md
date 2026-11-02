@@ -88,7 +88,7 @@ Currently focused on learning, experimenting, and turning ideas into practical w
 
  <img
   height="165"
-  src="https://streak-stats.demolab.com/?user=rafiabdullah8&theme=transparent&hide_border=true&background=100C14&ring=FB7185&fire=E879F9&currStreakLabel=FB7185&sideLabels=FDA4AF&currStreakNum=FCE7F3&sideNums=E879F9&dates=9D8FA3"
+  src="profile/streak.svg"
   alt="GitHub Contribution Streak — Rose Noir"
 />
   <br/><br/>
