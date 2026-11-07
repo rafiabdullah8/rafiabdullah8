@@ -67,7 +67,7 @@ Currently focused on learning, experimenting, and turning ideas into practical w
 ## Tech & Creative Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,mysql,css,git,github,vscode&theme=dark" alt="Technology stack" />
+ <img src="https://skillicons.dev/icons?i=cpp,html,java,css,c,mysql,github,vscode,git&theme=dark" alt="Technology Stack" />
   <br /><br />
   <img src="https://img.shields.io/badge/Creative%20Tools-Canva-100C14?style=flat-square&logo=canva&logoColor=FB7185" alt="Canva" />
   <img src="https://img.shields.io/badge/Photo%20Editing-Lightroom-100C14?style=flat-square&logo=adobelightroom&logoColor=E879F9" alt="Adobe Lightroom" />
