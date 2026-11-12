@@ -92,14 +92,11 @@ Currently focused on learning, experimenting, and turning ideas into practical w
   alt="GitHub Contribution Streak — Rose Noir"
 />
   <br/><br/>
-
-  <img
-    width="50%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&text_color=E5DDE8"
-    alt="Most Used Programming Languages — Rose Noir"
-  />
-
-</div>
+<img
+  width="50%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafiabdullah8&layout=compact&langs_count=6&theme=transparent&hide_border=true&bg_color=100C14&title_color=FB7185&text_color=E5DDE8"
+  alt="Most Used Programming Languages — Rose Noir"
+/>
 
 
 ---
