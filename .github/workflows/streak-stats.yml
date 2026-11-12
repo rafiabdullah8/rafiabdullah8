@@ -4,33 +4,42 @@ name: Update GitHub Streak Stats
 on:
   schedule:
     - cron: "0 3 * * *"
+
   workflow_dispatch:
 
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v1
+        uses: zients/github-readme-streak-stats@v2
         with:
-          options: user=rafiabdullah8&theme=transparent&hide_border=true&background=100C14&ring=FB7185&fire=E879F9&currStreakLabel=FB7185&sideLabels=FDA4AF&currStreakNum=FCE7F3&sideNums=E879F9&dates=9D8FA3
+          options: "user=rafiabdullah8&theme=default&background=100C14&border=100C14&hide_border=true&ring=FB7185&fire=E879F9&currStreakLabel=FB7185&sideLabels=FDA4AF&currStreakNum=FCE7F3&sideNums=E879F9&dates=9D8FA3&disable_animations=true"
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/streak.svg
-          git commit -m "Update GitHub streak stats" || exit 0
+
+          if git diff --cached --quiet; then
+            echo "No streak changes detected."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub streak stats"
           git push
