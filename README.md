@@ -86,9 +86,9 @@ Currently focused on learning, experimenting, and turning ideas into practical w
 
   &nbsp;&nbsp;
 
- <img
+<img
   height="165"
-  src="profile/streak.svg"
+  src="./profile/streak.svg"
   alt="GitHub Contribution Streak — Rose Noir"
 />
   <br/><br/>
